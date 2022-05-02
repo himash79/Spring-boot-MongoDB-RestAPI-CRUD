@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "626eb7cd230fa1370498122a"
+  },
+  "manufacture": "dell",
+  "model": "xps 2022",
+  "price": "200000",
+  "status": "true"
+},{
+  "_id": {
+    "$oid": "626ebe3a438d7463f15f6197"
+  },
+  "manufacture": "asus",
+  "model": "rog 2020",
+  "price": "100000",
+  "status": "false",
+  "_class": "lk.himash.ls.model.Laptop"
+},{
+  "_id": {
+    "$oid": "626ebe58438d7463f15f6198"
+  },
+  "manufacture": "hp",
+  "model": "specture",
+  "price": "350000",
+  "status": "true",
+  "_class": "lk.himash.ls.model.Laptop"
+},{
+  "_id": {
+    "$oid": "626ebe75438d7463f15f6199"
+  },
+  "manufacture": "lenovo",
+  "model": "legen",
+  "price": "234000",
+  "status": "false",
+  "_class": "lk.himash.ls.model.Laptop"
+},{
+  "_id": {
+    "$oid": "626ebe9a438d7463f15f619a"
+  },
+  "manufacture": "mac",
+  "model": "mac 2021",
+  "price": "250500",
+  "status": "true",
+  "_class": "lk.himash.ls.model.Laptop"
+},{
+  "_id": {
+    "$oid": "626ec4b4e3f97d394f79696d"
+  },
+  "manufacture": "acer",
+  "model": "predator",
+  "price": "350000",
+  "status": "false",
+  "_class": "lk.himash.ls.model.Laptop"
+}]
