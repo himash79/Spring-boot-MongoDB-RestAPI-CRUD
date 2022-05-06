@@ -10,7 +10,7 @@ Build Restful web services using spring boot and MongoDB.
 
 ## Project setup
 
-01) Clone the prject
+01) Clone the project
 
 		https://github.com/himash79/Spring-boot-MongoDB-RestAPI-CRUD.git
 
